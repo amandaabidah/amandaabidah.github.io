@@ -1,1 +1,5 @@
-# amandaabidah.github.io
+### Education
+abc
+
+### Work Experience
+abc
